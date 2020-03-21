@@ -63,7 +63,6 @@ class AuthPage extends StatelessWidget {
           )
         ],
       ),
-      resizeToAvoidBottomInset: false,
     );
   }
 
